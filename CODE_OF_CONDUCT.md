@@ -23,10 +23,19 @@ Community members who are found to be in violation of this code of conduct may b
 
 ## Responsibilities
 
-- Participate in the community with respect for others.
-- Engage in positive and productive dialogue.
-- Help create a welcoming, inclusive environment.
-- Report violations to the maintainers in a timely manner.
+As members of this community, we have a shared responsibility to foster a safe and positive environment. All community members are expected to:
+
+Be Respectful: Treat all individuals with kindness, empathy, and respect, irrespective of background, experience, identity, or beliefs.
+
+Engage Constructively: Participate in discussions, issues, and projects with a focus on building solutions, sharing knowledge, and supporting others.
+
+Uphold the Code of Conduct: Follow the community standards and behavior expectations laid out in this document. Strive to create an inclusive and supportive environment for all participants.
+
+Report Violations: If you experience or observe violations of this Code of Conduct, promptly report the incident to the project maintainers for review and action.
+
+Be Open to Feedback: Accept and give constructive criticism in a professional and respectful manner, helping to improve the community.
+
+Promote Inclusion: Help create and maintain an inclusive environment where all members feel valued, safe, and empowered to contribute.
 
 ## Scope
 
